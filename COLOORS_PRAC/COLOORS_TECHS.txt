@@ -1,0 +1,14 @@
+LIBRARY USED :
+Chroma JS
+
+TECHOLOGIES USED :
+HTML
+CSS
+Javascript 
+LOCAL STORAGE
+DOM Manipulation
+
+Math Object ( floor, ceil )
+ES6/ES2015 arrow functions
+Array Functions
+higher order ( forEach )
